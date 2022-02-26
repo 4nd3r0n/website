@@ -9,6 +9,12 @@
     color: red;
 }
 
+@font-face {
+    font-family: 'October Crow';
+    src: url('../assets/fonts/October Crow.ttf') format('truetype');
+}
+
 body{
-	font-family: 'Opensans', sans-serif;
+	font-family: 'October Crow', sans-serif;
+    font-size: 24px;
 }
